@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercice2</string>
+    <string name="key_text_name_plain">Texte</string>
+    <string name="key_text_plain">Texte</string>
+    <string name="key_button_submit">Enregistrer</string>
+    <string name="text_calcul">Calcul</string>
+    <string name="empty_text_view">Pas de résultat</string>
+    <string name="id_quit_call" >Quitter</string>
+</resources>
